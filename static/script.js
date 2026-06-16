@@ -105,7 +105,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const header = document.createElement("div");
         header.className = "message-header";
         header.innerHTML = `
-            <span class="message-sender">${role === "user" ? "You" : "FraudGuard AI"}</span>
+            <span class="message-sender">${role === "user" ? "You" : "JERUSH AI"}</span>
             <span class="message-time">${formatTime(new Date())}</span>
         `;
 
@@ -150,7 +150,7 @@ document.addEventListener("DOMContentLoaded", () => {
             </div>
             <div class="message-content">
                 <div class="message-header">
-                    <span class="message-sender">FraudGuard AI</span>
+                    <span class="message-sender">JERUSH AI</span>
                     <span class="message-time">${formatTime(new Date())}</span>
                 </div>
                 <div class="message-text">
