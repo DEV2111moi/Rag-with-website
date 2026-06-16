@@ -1,0 +1,8 @@
+flask==3.1.2
+flask-cors==6.0.5
+python-dotenv==1.0.1
+langchain-huggingface==0.1.2
+langchain-community==0.3.12
+langchain-groq==0.2.1
+faiss-cpu==1.9.0
+gunicorn==23.0.0
