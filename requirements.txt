@@ -1,9 +1,8 @@
 flask
 flask-cors
 python-dotenv
-langchain-huggingface
 langchain-community
 langchain-groq
 faiss-cpu
+fastembed
 gunicorn
-sentence-transformers
